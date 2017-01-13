@@ -1,0 +1,11 @@
+body {
+	background: rgba(88, 173, 66, 0.78);
+}
+
+h1 {
+	color: white;
+	font-size: 5em;
+	text-align: center;
+	font-family: 'Verdana';
+	text-shadow: 5px 8px 3px #333;
+}
